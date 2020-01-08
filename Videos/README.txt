@@ -1,0 +1,1 @@
+Save your videos here. Once they're edited to roughly the right segment (within a second or so of your desired final duration), put the edited versions in a sub-directory within this directory called '0-editedToSegment'.
